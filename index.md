@@ -4,6 +4,7 @@ date = "2024-06-14"
 description = "JB Welding a bumper"
 author = "Justin Napolitano"
 tags = ['automotive']
+images = ["images/feature-image.png"]
 +++
 
 
