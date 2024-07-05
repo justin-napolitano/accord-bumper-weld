@@ -5,6 +5,7 @@ description = "JB Welding a bumper"
 author = "Justin Napolitano"
 tags = ['automotive']
 images = ["images/feature-image.png"]
+categories = ["Personal"]
 +++
 
 
