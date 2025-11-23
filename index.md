@@ -1,57 +1,41 @@
-+++
-title =  "JB 'Welding' My Bumper"
-date = "2024-06-14"
-description = "JB Welding a bumper"
-author = "Justin Napolitano"
-tags = ['automotive']
-images = ["images/feature-image.png"]
-categories = ["DIY"]
-+++
+---
+slug: "github-accord-bumper-weld"
+title: "accord-bumper-weld"
+repo: "justin-napolitano/accord-bumper-weld"
+githubUrl: "https://github.com/justin-napolitano/accord-bumper-weld"
+generatedAt: "2025-11-23T08:10:05.363474Z"
+source: "github-auto"
+---
 
 
-<!-- # JB Welding a front bumper  -->
+# JB Welding My Accord Bumper
 
-So, I snagged my already hanging on by a thread bumper on a piece of rebar. I reversed thinking it was a small bump in the parking lot... I was wrong.
+## Motivation
 
-## Why
+I recently found myself with a bumper on my Honda Accord that was barely hanging on — literally held by a piece of rebar after a parking lot mishap. Bumpers are expensive to replace or paint, running me around $400 if I tried to do it myself, and even more if I took it to a shop. So instead of shelling out big bucks or ending up with a car that looks like a beater, I decided to try a quick, functional fix using JB Weld.
 
-Bumpers are expensive. I am looking at around $400.00 of bumper + paint if I try to do this on my own. Taking it to the shop... yeah I won't do that.  So, rather than trying to make the prettiest beater in the car lot, I am going to make it at least a functional beater. 
+## The Problem
 
-## Tools
+The bumper had two main issues: on one side, the plastic around the screw holding the bumper to the bracket cracked, and on the other, the bracket that attaches to the impact bar snapped clean off. Both needed some kind of repair to keep the bumper attached, at least temporarily.
 
-I don't really need much of anything for this one, but like always I have a razor blade, a flat head, and a phillips in my overall pockets. 
+## How I Built It
 
-## Jb Weld
+I kept things simple. I didn’t want to make the prettiest or strongest repair — just something functional enough to hold the bumper in place until I decide to replace it properly (if ever).
 
-I used [this version of jb weld](https://www.amazon.com/J-B-Weld-50176-KwikWeld-Reinforced/dp/B009EU5ZMA/ref=sr_1_9?crid=E7906IRBRALN&dib=eyJ2IjoiMSJ9.H2AK46mHNlIUo4r-NYZbhYIKI4RetkiJACCrYWumMLNg1qa9S3ng3fxU427OaLfPN4ZODtnZCdNrvbpecLryLyHYMnFiVQbTdSto4IE5ypCvF6CwCm9Hq_E4h1WusqSuxUbdmB11XZ-gupPWJkgVGJpzYRNLmJ4e4mv5WNF3xFbEN9R7p5zP9ZKGvixdCfkxKPSs3MmMIVwEoTRSmKsbatGKPDz5gC_YAgdxIZqr-e8.lSvh4Kpw7vBPORArKFP3njWeNd_JkACbvUe8dsy4JMQ&dib_tag=se&keywords=jb+weld&qid=1718407395&sprefix=jb+weld%2Caps%2C107&sr=8-9) because it was inexpensive and kinda matched the color of my car.  
+The tools were minimal: a razor blade, a flat head screwdriver, and a Phillips screwdriver — the usual suspects in my pockets. For the adhesive, I chose a version of JB Weld that was inexpensive and matched the color of my car fairly well. I linked to the exact product I used in my notes.
 
-## Fix the brackets
+I started on the easier side, where the attachment point was broken but still fixable. The goal was just to hold the bumper to the mounting screw securely enough to prevent it from falling off.
 
-So on my car there are two brackets underneath the wheel well that broke. On one side the plastic around the screw holding the bumper to the bracket cracked. On the other side the bracket that attaches to the impact bar snapped completely off.  
+## Interesting Implementation Details
 
-### Start on the easier side
+- I chose JB Weld because it’s a strong, reinforced epoxy that can bond plastic parts effectively, and it was cost-effective.
+- Instead of trying to perfectly restore the bumper’s strength, I focused on functionality and ease of future replacement.
+- Documenting the process with photos and notes helped me keep track of what I did and could help others facing similar issues.
 
-So the side with the broken attachment point is pretty easy to fix. My goal is not really to make it strong. My goal is only to hold the bumper to the mounting screw until I (if I ever do ) replace the bumper.  Yeah it is kind of annoying, but I'll rip that off and replace the screw when the time comes.  
+## Why this project matters for my career
 
-#### Weld that plastic to the metal
+This project is a reminder that problem-solving doesn’t always require complex code or software. Sometimes, it’s about applying practical skills and resourcefulness to real-world problems. Documenting this process improves my ability to communicate technical details clearly, a crucial skill in any development or engineering role. Plus, it shows my willingness to tackle challenges hands-on and learn from every experience, no matter how small or unrelated to coding it may seem.
 
-![ghetto-left](./photos/ghetto-left.jpg)
+---
 
-### Move on to the harder side
-
-The right side is a little bit more difficult because the bracket itself snapped off. IF it aligned perfectly with the plastic on the other side, it would be an easy fix... unfortunately it does not. So to fix this one I'll need to rig something up to hold the bumper in place as the resin sets. 
-
-I went with this beatiful set up below.  A trekking pole up against the mounting screw holds the mount against the bit of plastic behind it. The box containing a jack stand holds the bumper just far enough back to make sure that the 'rig' does stays exactly where it needs to stay. 
-
-#### The stick to the screw
-
-![ghetto-weld-idk](./photos/ghetto-weld-idk.jpg)
-
-#### The box and the bumper
-
-![ghetto-right-far](./photos/ghetto-weld-far.jpg)
-
-#### The whole thing looking great
-
-![ghetto-far](./photos/ghetto-far.jpg)
-
+Thanks for reading! If you’re ever in a bind with a broken bumper, maybe this little project will give you some ideas on how to hold things together without breaking the bank.
