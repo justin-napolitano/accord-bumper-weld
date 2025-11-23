@@ -1,26 +1,26 @@
 # JB Welding My Accord Bumper
 
-A personal DIY project documenting the repair of a damaged Honda Accord bumper using JB Weld. This repository contains notes, photos, and insights from the repair process aimed at creating a functional, cost-effective fix.
+This repository documents a personal DIY project focused on repairing a damaged Honda Accord bumper using JB Weld adhesive. It serves as a detailed record of the process, including notes and photos, aimed at achieving a functional and cost-effective fix.
 
 ---
 
 ## Features
 
-- Step-by-step documentation of bumper repair
-- Use of JB Weld as an inexpensive adhesive solution
-- Photos illustrating the repair process
+- Step-by-step documentation of the bumper repair process
+- Use of JB Weld as an affordable adhesive solution
+- Photo archive illustrating key repair stages
 
 ## Tech Stack
 
 - Markdown for documentation
-- Static site content (index.md) for blog-style presentation
+- Static content with a blog-style presentation (index.md)
 - Photos directory for visual references
 
 ## Getting Started
 
-Since this repository primarily serves as a documentation and photo archive of a DIY project, there is no software to install or run.
+This project is a documentation archive and does not contain executable software.
 
-To view the content:
+To access the content:
 
 1. Clone the repository:
 
@@ -42,10 +42,10 @@ accord-bumper-weld/
 
 ## Future Work / Roadmap
 
-- Add more detailed photos and videos of the repair steps
-- Include a parts/tools list with links and alternatives
-- Document follow-up repairs or improvements
-- Possibly create a video tutorial or time-lapse
+- Add more detailed photos and video documentation of repair steps
+- Include a comprehensive parts and tools list with purchase links and alternatives
+- Document any follow-up repairs or improvements
+- Consider creating a video tutorial or time-lapse of the repair process
 
 ---
 
