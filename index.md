@@ -20,6 +20,12 @@ seoSecondaryKeywords:
   - automotive epoxy repair
   - bumper attachment fix
 seoOptimized: true
+topicFamily: personal
+topicFamilyConfidence: 0.8
+topicFamilyNotes: >-
+  The post focuses on a personal, practical automotive repair project documented in markdown format,
+  without involving software development or automation. The topic families are mainly technical
+  except 'personal', which fits the personal project and reflection nature best.
 ---
 
 # JB Welding My Accord Bumper: Technical Documentation
@@ -60,3 +66,4 @@ The repair focused on the easier side first, where the broken attachment point c
 ## Summary
 
 This project exemplifies a pragmatic approach to automotive repair, leveraging inexpensive materials and straightforward techniques to extend the life of a damaged component. The documentation serves as a reference for similar repairs and a record of the methodology applied.
+
