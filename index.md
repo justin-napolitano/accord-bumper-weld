@@ -1,31 +1,40 @@
 ---
 slug: github-accord-bumper-weld
-title: Repairing a Honda Accord Bumper Using JB Weld Epoxy
+title: Repairing a Honda Accord Bumper with JB Weld
 repo: justin-napolitano/accord-bumper-weld
 githubUrl: https://github.com/justin-napolitano/accord-bumper-weld
 generatedAt: '2025-11-23T08:33:28.795558Z'
 source: github-auto
 summary: >-
-  Technical documentation of a practical Honda Accord bumper repair using JB Weld epoxy to restore
-  mechanical stability with minimal tools and materials.
+  This documentation details the process of using JB Weld to repair a damaged
+  Honda Accord bumper effectively and affordably.
 tags:
   - automotive-repair
   - jb-weld
   - honda-accord
   - bumper-repair
   - epoxy
-seoPrimaryKeyword: jb weld bumper repair
+  - JB Weld
+  - automotive repair
+  - Honda Accord
+  - epoxy adhesive
+  - cost-effective solutions
+seoPrimaryKeyword: honda accord bumper repair
 seoSecondaryKeywords:
-  - honda accord bumper
-  - automotive epoxy repair
-  - bumper attachment fix
+  - JB Weld application
+  - epoxy for plastic repair
+  - automotive DIY techniques
+  - cost-effective bumper fix
 seoOptimized: true
 topicFamily: personal
 topicFamilyConfidence: 0.8
 topicFamilyNotes: >-
-  The post focuses on a personal, practical automotive repair project documented in markdown format,
-  without involving software development or automation. The topic families are mainly technical
-  except 'personal', which fits the personal project and reflection nature best.
+  The post focuses on a personal, practical automotive repair project documented
+  in markdown format, without involving software development or automation. The
+  topic families are mainly technical except 'personal', which fits the personal
+  project and reflection nature best.
+kind: project
+id: github-accord-bumper-weld
 ---
 
 # JB Welding My Accord Bumper: Technical Documentation
