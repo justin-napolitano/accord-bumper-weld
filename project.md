@@ -7,8 +7,8 @@ githubUrl: https://github.com/justin-napolitano/accord-bumper-weld
 generatedAt: '2025-11-24T21:33:51.634Z'
 source: github-auto
 summary: >-
-  Detailed documentation of a DIY project for repairing a Honda Accord bumper
-  using JB Weld, including notes and photos of the process.
+  Detailed documentation of a DIY project for repairing a Honda Accord bumper using JB Weld,
+  including notes and photos of the process.
 tags:
   - markdown
   - JB Weld
@@ -25,8 +25,8 @@ seoSecondaryKeywords:
   - car repair project
   - photo archive
 seoOptimized: true
-topicFamily: null
-topicFamilyConfidence: null
+topicFamily: personal
+topicFamilyConfidence: 0.8
 kind: project
 entryLayout: project
 showInProjects: true
@@ -85,3 +85,4 @@ accord-bumper-weld/
 ---
 
 *Note: This repository is a personal project and does not contain software code.*
+
